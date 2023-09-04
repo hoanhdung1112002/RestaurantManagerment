@@ -1,0 +1,136 @@
+﻿@model WebQuanLyNhaHang.Models.Employee;
+<div class="container-xxl position-relative p-0">
+
+    <div class="container-xxl py-5 bg-dark hero-header mb-5">
+        <div class="container text-center my-5 pt-5 pb-4">
+            <h1 class="display-3 text-white mb-3 animated slideInDown">Thông tin nhân viên</h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb justify-content-center text-uppercase">
+                    <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Trang chủ</a></li>
+                    <li class="breadcrumb-item text-white active" aria-current="page">Thông tin nhân viên</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</div>
+<section class="section profile">
+    <div class="row">
+        <div class="col-xl-4">
+
+            <div class="card">
+                <div class="card-body profile-card pt-4 d-flex flex-column align-items-center">
+
+                    <img style="max-width: 120px; height: 120px" src="@Html.Raw(Model.Image)" alt="Profile" class="rounded-circle">
+                    <h2 style="font-size: 24px;
+                        font-weight: 700;
+                        color: #2c384e;
+                        margin: 10px 0 0 0;">
+                        @Html.DisplayFor(model => model.EmployeeName)
+                    </h2>
+                    <h3 style="font-size: 18px;">@Html.DisplayFor(model => model.Position)</h3>
+                    <div class="social-links mt-2">
+                        <a style="font-size: 20px;
+                            display: inline-block;
+                            color: rgba(1, 41, 112, 0.5);
+                            line-height: 0;
+                            margin-right: 10px;
+                            transition: 0.3s;" href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+                        <a style="font-size: 20px;
+                            display: inline-block;
+                            color: rgba(1, 41, 112, 0.5);
+                            line-height: 0;
+                                margin-right: 10px;
+                            transition: 0.3s;" href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="#" style="font-size: 20px;
+                                display: inline-block;
+                                color: rgba(1, 41, 112, 0.5);
+                                line-height: 0;
+                                margin-right: 10px;
+                                transition: 0.3s;" class="instagram"><i class="bi bi-instagram"></i></a>
+                        <a style="font-size: 20px;
+                        display: inline-block;
+                        color: rgba(1, 41, 112, 0.5);
+                        line-height: 0;
+                            margin-right: 10px;
+                        transition: 0.3s;" href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col-xl-8">
+
+            <div class="card">
+                <div class="card-body pt-3">
+                    <!-- Bordered Tabs -->
+                    <ul class="nav nav-tabs nav-tabs-bordered">
+
+                        <li class="nav-item">
+                            <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#profile-overview">Thông tin</button>
+                        </li>
+
+                    </ul>
+                    <div class="tab-content pt-2">
+
+                        <div class="tab-pane fade show active profile-overview" id="profile-overview">
+                            
+
+                            <h5 class="card-title" style="padding: 20px 0 15px 0;
+                                    font-size: 18px;
+                                    font-weight: 500;
+                                    color: #012970;
+                                    font-family: " Poppins", sans-serif;">
+                                Thông tin chi tiết
+                            </h5>
+
+                            <div class="row" style="margin-bottom: 20px;
+                                font-size: 15px;">
+                                <div class="col-lg-3 col-md-4 label ">Tên đầy đủ</div>
+                                <div class="col-lg-9 col-md-8">@Html.DisplayFor(model => model.EmployeeName)</div>
+                            </div>
+
+                            <div class="row" style="margin-bottom: 20px;
+                                font-size: 15px;">
+                                <div class="col-lg-3 col-md-4 label">Vị trí làm việc</div>
+                                <div class="col-lg-9 col-md-8">@Html.DisplayFor(model => model.Position)</div>
+                            </div>
+
+                            <div class="row" style="margin-bottom: 20px;
+                                font-size: 15px;">
+                                <div class="col-lg-3 col-md-4 label">Địa chỉ Email</div>
+                                <div class="col-lg-9 col-md-8">@Html.DisplayFor(model => model.Email)</div>
+                            </div>
+
+                            <div class="row" style="margin-bottom: 20px;
+                                font-size: 15px;">
+                                <div class="col-lg-3 col-md-4 label">Số diện thoại</div>
+                                <div class="col-lg-9 col-md-8">(+84) @Html.DisplayFor(model => model.Phone)</div>
+                            </div>
+
+                            <div class="row" style="margin-bottom: 20px;
+                                font-size: 15px;">
+                                <div class="col-lg-3 col-md-4 label">Địa chỉ</div>
+                                <div class="col-lg-9 col-md-8">@Html.DisplayFor(model => model.Address)</div>
+                            </div>
+
+                            <h5 class="card-title" style="padding: 20px 0 15px 0;
+                                    font-size: 18px;
+                                    font-weight: 500;
+                                    color: #012970;
+                                    font-family: " Poppins", sans-serif;">
+                                Thông tin thêm
+                            </h5>
+                            <p stystyle="font-size: .975em;" class="small fst-italic">@Html.DisplayFor(model => model.Description)</p>
+
+
+                        </div>
+                    </div><!-- End Bordered Tabs -->
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+

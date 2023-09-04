@@ -1,0 +1,32 @@
+﻿@model WebQuanLyNhaHang.Models.Employee
+
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h2>Xác nhận xoá nhân viên</h2>
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label asp-for="EmployeeID">EmployeeID</label>
+            <input type="text" class="form-control mb-3" asp-for="EmployeeID" disabled />
+        </div>
+        <div class="form-group col-md-6">
+            <label asp-for="EmployeeName">Họ tên nhân viên</label>
+            <input type="text" class="form-control mb-3" asp-for="EmployeeName" disabled />
+        </div>
+    </div>
+    <!--Begin Form-->
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="EmployeeID" />
+        <a class="btn btn-lg btn-warning p-2 mr-5" href="javascript:history.back()">
+            <i class="bi bi-arrow-left-circle"></i>Quay lại
+        </a>
+        <button type="submit" class="btn btn-lg btn-danger p-2">
+            <i clclass="bi bi-trash-fill"></i>
+            Xoá nhân viên
+        </button>
+    </form>
+    <!--End Form-->
+</main>

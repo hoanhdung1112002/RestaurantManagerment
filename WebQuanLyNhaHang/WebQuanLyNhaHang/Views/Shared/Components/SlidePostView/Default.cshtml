@@ -1,0 +1,23 @@
+﻿@using WebQuanLyNhaHang.Models;
+@using WebQuanLyNhaHang.Utilities;
+@model IList<Post>
+
+<div class="container-xxl py-5 bg-dark hero-header mb-5">
+    <div class="container my-5 py-5">
+        @foreach (var item in Model)
+        {
+            string url = Functions.TitleSlugGeneration("post", item.Title, item.PostID);
+            <div class="row align-items-center g-5">
+                <div class="col-lg-6 text-center text-lg-start">
+                    <h1 class="display-3 text-white animated slideInLeft">@item.Title</h1>
+                    <p class="text-white animated slideInLeft mb-4 pb-2">@item.Abstract</p>
+                    <a href="/@url" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Đi tới bài viết</a>
+                </div>
+                <div class="col-lg-6 text-center text-lg-end overflow-hidden">
+                    <img class="img-fluid" src="~/assets/img/hero.png" alt="">
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

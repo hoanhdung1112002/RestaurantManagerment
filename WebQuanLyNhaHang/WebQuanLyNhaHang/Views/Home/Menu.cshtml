@@ -1,0 +1,38 @@
+﻿<!-- Navbar & Hero Start -->
+<div class="container-xxl position-relative p-0">
+   
+    <div class="container-xxl py-5 bg-dark hero-header mb-5">
+        <div class="container text-center my-5 pt-5 pb-4">
+            <h1 class="display-3 text-white mb-3 animated slideInDown">Thực đơn</h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb justify-content-center text-uppercase">
+                    <li class="breadcrumb-item"><a a asp-controller="Home" asp-action="Index">Trang chủ</a></li>
+                    <li class="breadcrumb-item text-white active" aria-current="page">Thực đơn</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Navbar & Hero End -->
+<!-- Menu Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Thực đơn</h5>
+            <h1 class="mb-5">Đa dạng món ăn</h1>
+        </div>
+        <div class="tab-class text-center wow fadeInUp" data-wow-delay="0.1s">
+            <!--
+
+            Categories
+            -->
+            @await Component.InvokeAsync("CategoriesView")
+            <!--Foods
+
+
+            -->
+            @await Component.InvokeAsync("FoodsView")
+        </div>
+    </div>
+</div>
+<!-- Menu End -->

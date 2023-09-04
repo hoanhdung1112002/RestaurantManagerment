@@ -1,0 +1,50 @@
+﻿@model IList<Menu>
+
+
+<!-- Navbar & Hero Start -->
+<div class="container-xxl position-relative p-0">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
+        <a  class="navbar-brand p-0" asp-controller="Home" asp-action="Index">
+            <!--<h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>Dũng Anh</h1>-->
+            <img src="~/assets/img/LogoWeb.png" alt="Logo">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="fa fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <!--Menu-->
+            <div class="navbar-nav ms-auto py-0 pe-4">
+                <!--Lặp qua các menu cấp 1-->
+                @foreach (var menu in Model.Where(m => m.Levels == 1).OrderBy(n => n.MenuOrder))
+                {
+                    //Lấy ra id của menu cấp 1
+                    var Pid = menu.MenuID;
+
+                    //Lặp qua menu cấp 2 là con của menu cấp 1
+                    var Smenu = Model.Where(p => p.ParentID == Pid).OrderBy(p => p.MenuOrder).ToList();
+
+                    @if (Smenu.Count == 0)
+                    {
+                        <a asp-controller="@menu.ControllerName" asp-action="@menu.ActionName" class="nav-item nav-link">@menu.MenuName</a>
+                    }
+                    else
+                    {
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">@menu.MenuName</a>
+                            <div class="dropdown-menu m-0">
+                                @foreach (var smenu in Smenu)
+                                {
+                                    <a asp-controller="@smenu.ControllerName" asp-action="@smenu.ActionName" class="dropdown-item">@smenu.MenuName</a>
+                                }
+                            </div>
+                        </div>
+                    }
+                }
+
+            </div>
+
+            <a asp-controller="Home" asp-action="Booking" class="btn btn-primary py-2 px-4">Đặt bàn ngay</a>
+        </div>
+    </nav>
+
+

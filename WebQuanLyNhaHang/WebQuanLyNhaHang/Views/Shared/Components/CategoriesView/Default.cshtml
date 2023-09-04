@@ -1,0 +1,20 @@
+﻿@using WebQuanLyNhaHang.Models;
+@model IList<Categories>
+
+<ul class="nav nav-pills d-inline-flex justify-content-center border-bottom mb-5">
+   
+    @foreach (var item in Model)
+    {
+       
+        <li class="nav-item tab-item" data-filter="@item.DataFilter">
+            <a class="d-flex align-items-center text-start mx-3 ms-0 pb-3" data-bs-toggle="pill" href="">
+                <i class="@item.Icon"></i>
+                <div class="ps-3">
+                    <small class="text-body">@item.Description</small>
+                    <h6 class="mt-n1 mb-0">@item.CategoryName</h6>
+                </div>
+            </a>
+        </li>
+    }
+</ul>
+

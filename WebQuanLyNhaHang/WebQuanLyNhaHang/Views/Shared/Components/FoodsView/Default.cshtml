@@ -1,0 +1,34 @@
+﻿@using WebQuanLyNhaHang.Models;
+@using WebQuanLyNhaHang.Utilities;
+@model IList<Foods>
+
+<div class="tab-content">
+         <div class="row g-4">
+ 
+    @foreach (var item in Model)
+        {
+            string url = Functions.TitleSlugGeneration("info", item.FoodName, item.FoodID);
+            <div class="col-lg-3 menu-item-filter" data-item="@item.DataFood">
+            <div class="menu-item" >
+                    <div class="menu-item-img" style="cursor: pointer">
+                        <img src="@item.Image" alt="">
+                    </div>
+                    <div class="menu-item-content">
+                        <h3>@item.FoodName</h3>
+                        <p style="display: -webkit-box;
+                                                -webkit-line-clamp: 2;
+                                                -webkit-box-orient: vertical;
+                                                overflow: hidden; cursor: text">@item.Description.</p>
+                    </div>
+                    <div class="menu-item-price">
+                        <span>@item.Price đ</span>
+                        <a href="/@url" class="btns buy-btn">Chi tiết</a>
+                    </div>
+                </div>
+            </div>
+    }
+        </div>
+</div>
+
+
+

@@ -1,0 +1,56 @@
+﻿@using WebQuanLyNhaHang.Models;
+@model IList<Contact>
+
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h2>Danh sách liên hệ</h2>
+    </div>
+
+    <section class="section dashboard">
+        <div class="row">
+            <div class="col-12">
+                <div class="card recent-sales overflow-auto">
+                    <div class="card-body mt-4">
+                        <table class="table table-borderless datatable">
+                            <thead>
+                                <tr>
+                                    <th class="col-1 text-center">#</th>
+                                    <th class="col-1 text-center">Người liên hệ</th>
+                                    <th class="col-1 text-center">Email</th>
+                                    <th class="col-1 text-center">Chủ đề muốn quan tâm</th>
+                                    <th class="col-1 text-center">Ghi chú</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <th class="text-center" scope="row">@item.ContactID</th>
+                                        <td>
+                                            <a asp-area="Admin" asp-controller="Order" asp-action="Details" asp-route-id="@item.ContactID" class="text-primary">@item.FullName</a>
+                                        </td>
+
+                                        <td class="text-center">@item.Email</td>
+                                        <td class="text-center">@item.Title</td>
+                                        <td class="text-center">@item.Note</td>
+                                        <td class="text-center">
+
+                                            <a asp-area="Admin" asp-controller="Contact" asp-action="Delete" asp-route-id="@item.ContactID" class="btn btn-danger btn-sm"
+                                           title="Xoá thông tin liên hệ">
+                                                <i class="bi bi-trash"></i>
+                                            </a>
+                                        </td>
+
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+
+

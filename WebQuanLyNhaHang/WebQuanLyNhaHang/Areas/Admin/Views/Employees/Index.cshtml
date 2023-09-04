@@ -1,0 +1,67 @@
+﻿@using WebQuanLyNhaHang.Models;
+@model IList<Employee>
+
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h2>Danh sách nhân viên</h2>
+    </div>
+    <p>
+        <a type="button" class="btn btn-success" asp-area="Admin" asp-controller="Employees" asp-action="Create">
+            <i class="bi bi-file-earmark-text me-1"></i>
+            Thêm nhân viên
+        </a>
+    </p>
+    <section class="section dashboard">
+        <div class="row">
+            <div class="col-12">
+                <div class="card recent-sales overflow-auto">
+                    <div class="card-body mt-4">
+                        <table class="table table-borderless datatable">
+                            <thead>
+                                <tr>
+                                    <th class="col-1 text-center">#</th>
+                                    <th class="col-1 text-center">Tên nhân viên</th>
+                                    <th class="col-1 text-center">Phụ trách</th>
+                                    <th class="col-1 text-center">Ảnh</th>
+                                    <th class="col-1 text-center">Số điện thoại</th>
+                                    <th class="col-1 text-center">Chức năng</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <th class="text-center" scope="row">@item.EmployeeID</th>
+                                        <td>
+                                            <a asp-area="Admin" asp-controller="Employee" asp-action="Details" asp-route-id="@item.EmployeeID" class="text-primary">@item.EmployeeName</a>
+                                        </td>
+                                        <td class="text-center">@item.Position</td>
+                                        <td class="text-center">
+                                            <img style="width: 60px; height: 60px; object-fit: cover; object-position: center; border-radius: 5px;" src="@item.Image">
+                                        </td>
+
+                                        <td class="text-center">(+84) @item.Phone</td>
+                                        <td class="text-center">
+                                            <a asp-area="Admin" asp-controller="Employees" asp-action="Edit" asp-route-id="@item.EmployeeID" class="btn btn-primary btn-sm"
+                                           title="Sửa hồ sơ nhân viên">
+                                                <i class="bi bi-pencil"></i>
+                                            </a>
+                                            <a asp-area="Admin" asp-controller="Employees" asp-action="Delete" asp-route-id="@item.EmployeeID" class="btn btn-danger btn-sm"
+                                           title="Xoá hồ sơ nhân viên">
+                                                <i class="bi bi-trash"></i>
+                                            </a>
+                                        </td>
+
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+
+

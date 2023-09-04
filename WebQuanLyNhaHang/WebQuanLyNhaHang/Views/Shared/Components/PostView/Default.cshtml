@@ -1,0 +1,43 @@
+﻿@using WebQuanLyNhaHang.Models;
+@using WebQuanLyNhaHang.Utilities;
+@model IList<Post>
+<!-- Blog Start -->
+<div class="container-xxl py-5 px-0 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container py-5">
+        <div class="text-center">
+            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Bài viết</h5>
+            <h1 class="mb-5">Tổng hợp những bài viết mới nhất</h1>
+        </div>
+        <div class="row g-5">
+            @foreach (var item in Model)
+            {
+                string url = Functions.TitleSlugGeneration("post", item.Title, item.PostID);
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
+                    <div class="blog-item bg-light rounded overflow-hidden" style="height:580px">
+                        <div class="blog-img position-relative overflow-hidden">
+                            <img class="img-fluid" src="@item.Images" alt="" style="width: 340px; height: 300px; object-fit: cover; object-position: center;">
+                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">@item.Author</a>
+                        </div>
+                        <div class="p-4">
+                            <div class="d-flex mb-3">
+                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>@item.Author</small>
+                                <small><i class="far fa-calendar-alt text-primary me-2"></i>@item.CreatedDate?.ToString("dd-MM-yyyy")</small>
+                            </div>
+                            <h4 style="display: -webkit-box;
+                                                -webkit-line-clamp: 2;
+                                                -webkit-box-orient: vertical;
+                                                overflow: hidden;" class="mb-3">@item.Title</h4>
+                            <p style="display: -webkit-box;
+                                                -webkit-line-clamp: 3;
+                                                -webkit-box-orient: vertical;
+                                                overflow: hidden;">@item.Abstract</p>
+                            <a class="text-uppercase" href="/@url">Đọc thêm <i class="bi bi-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            }
+            
+        </div>
+    </div>
+</div>
+<!-- Blog Start -->

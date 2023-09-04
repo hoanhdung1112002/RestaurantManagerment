@@ -1,0 +1,43 @@
+﻿@await Component.InvokeAsync("SlidePostView")
+
+<!-- Menu Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Thực đơn</h5>
+            <h1 class="mb-5">Đa dạng món ăn</h1>
+        </div>
+        <div class="tab-class text-center wow fadeInUp" data-wow-delay="0.1s">
+        <!--
+
+        Categories
+        -->
+            @await Component.InvokeAsync("CategoriesView")
+            <!--Foods
+
+
+            -->
+            @await Component.InvokeAsync("FoodsView")
+
+
+        </div>
+        
+    </div>
+</div>
+<!-- Menu End -->
+@await Component.InvokeAsync("PostView")
+        
+        <!--Chef-->
+        @await Component.InvokeAsync("EmployeeView");
+
+        <!-- Testimonial Start -->
+        <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container">
+                <div class="text-center">
+                    <h5 class="section-title ff-secondary text-center text-primary fw-normal">Phản hồi</h5>
+                    <h1 class="mb-5">Phản ánh của khách hàng</h1>
+                </div>
+                @await Component.InvokeAsync("FeedbackView")
+            </div>
+        </div>
+        <!-- Testimonial End -->

@@ -1,0 +1,537 @@
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\appsettings.json
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.staticwebassets.runtime.json
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.exe
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.deps.json
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.runtimeconfig.json
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.pdb
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.AssemblyInfoInputs.cache
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.AssemblyInfo.cs
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.RazorAssemblyInfo.cache
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.RazorAssemblyInfo.cs
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\scopedcss\bundle\WebQuanLyNhaHang.styles.css
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\scopedcss\projectbundle\WebQuanLyNhaHang.bundle.scp.css
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\refint\WebQuanLyNhaHang.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.pdb
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.genruntimeconfig.cache
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\ref\WebQuanLyNhaHang.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.csproj.CopyComplete
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\SlugGenerator.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\appsettings.Development.json
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\appsettings.json
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.staticwebassets.runtime.json
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.exe
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.deps.json
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.runtimeconfig.json
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\WebQuanLyNhaHang.pdb
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Humanizer.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\MessagePack.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Common.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\SlugGenerator.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.AssemblyInfoInputs.cache
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.AssemblyInfo.cs
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.MvcApplicationPartsAssemblyInfo.cache
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.RazorAssemblyInfo.cache
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.RazorAssemblyInfo.cs
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\staticwebassets.build.json
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\staticwebassets.development.json
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\scopedcss\bundle\WebQuanLyNhaHang.styles.css
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\scopedcss\projectbundle\WebQuanLyNhaHang.bundle.scp.css
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.csproj.CopyComplete
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\refint\WebQuanLyNhaHang.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.pdb
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.genruntimeconfig.cache
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\ref\WebQuanLyNhaHang.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\elFinder.NetCore.dll
+D:\Kỳ 1 năm 3\Phát triển app net\My project\Myapp\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\bin\Debug\net6.0\elFinder.NetCore.dll
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\WebQuanLyNhaHang.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\staticwebassets\msbuild.WebQuanLyNhaHang.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\staticwebassets\msbuild.build.WebQuanLyNhaHang.props
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebQuanLyNhaHang.props
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebQuanLyNhaHang.props
+C:\Users\Anhdu\Documents\Tài liệu kì 5\Phát triển ứng dụng Web\My Project\WebQuanLyNhaHang\WebQuanLyNhaHang\obj\Debug\net6.0\staticwebassets.pack.json
